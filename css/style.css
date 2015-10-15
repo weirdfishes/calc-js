@@ -1,0 +1,58 @@
+.thinborder {
+  border:1px solid #ccc;
+  width:206px;
+  height:60px;
+  background:lightgrey;
+}
+
+.calcbuttons {
+  align-content:center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.numberbutton {
+  width:35px;
+}
+
+.operationbutton {
+  width:35px;
+}
+
+.clearbutton {
+  background-color:green;
+  color:white;
+}
+
+.output {
+  background:lightgrey;
+  color:black;
+  font-family: "Menlo", Menlo, Monaco, Consolas, "Courier New", monospace;
+  padding:0 10px;
+  text-align:right;
+  font-size:20px;
+}
+
+.calcbody {
+  background: whitesmoke;
+  font-family: "Menlo", Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 14px;
+  width:235px;
+  padding:10px;
+  box-shadow: 5px 5px 5px #888888;
+  border-radius:12px;
+}
+
+
+#btnPosNeg {
+  padding: 0;
+  font-size: 10px;
+  width: 35px;
+  height: 35px;
+}
+
+#btnEquals {
+  width: 120px;
+}
+
